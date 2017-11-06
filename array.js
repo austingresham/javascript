@@ -21,3 +21,15 @@ console.log(seasons);
 seasons[0] = 'Cold!';
 console.log(seasons);
 
+//length is a property of a variable
+console.log(NewYearsResolutions.length);  //Prints "3"
+
+//Using PUSH method (add item(s) to end of an array)
+let sampleArray = ['Item1', 'Item2'];
+console.log('Two-Item Array: ' + sampleArray);
+sampleArray.push('Item3', 'Item4');
+console.log('Four-Item Array: ' + sampleArray);
+
+//Using POP method (remove item from end of an array)
+sampleArray.pop();
+console.log('Back to 3: ' + sampleArray);
