@@ -1,10 +1,3 @@
 # javascript
-Scratch Space for JavaScript
-
-This is a change to the file
-
-Here is another change...
-
-A final change
-
-Geez, another change1
+This is my space for learning JavaScript
+and learning to use Git with VS Code
